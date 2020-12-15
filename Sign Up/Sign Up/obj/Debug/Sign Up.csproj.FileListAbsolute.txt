@@ -1,0 +1,12 @@
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\bin\Debug\Sign Up.exe.config
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\bin\Debug\Sign Up.exe
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\bin\Debug\Sign Up.pdb
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.csprojAssemblyReference.cache
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign_Up.Form1.resources
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign_Up.Properties.Resources.resources
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.csproj.GenerateResource.cache
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.csproj.CopyComplete
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.exe
+D:\Visual Studio 2019 Test\Sign Up\Sign Up\obj\Debug\Sign Up.pdb

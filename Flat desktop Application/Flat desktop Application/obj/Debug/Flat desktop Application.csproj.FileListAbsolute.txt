@@ -1,0 +1,12 @@
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\bin\Debug\Flat desktop Application.exe.config
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\bin\Debug\Flat desktop Application.exe
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\bin\Debug\Flat desktop Application.pdb
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat_desktop_Application.FirstCustomControl.resources
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat_desktop_Application.Form1.resources
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat_desktop_Application.Properties.Resources.resources
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat desktop Application.csproj.GenerateResource.cache
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat desktop Application.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat desktop Application.exe
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat desktop Application.pdb
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat_desktop_Application.MySecondCustomControl.resources
+D:\Visual Studio 2019 Test\Flat desktop Application\Flat desktop Application\obj\Debug\Flat desktop Application.csprojAssemblyReference.cache
